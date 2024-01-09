@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Poppins', sans-serif;
+	background-color: #004953;
+	margin: 20%;
+	color: white;
+}
+
+.title {
+	text-align: center;
+	text-shadow: 5px 5px 10px black;
+	font-size: 40px;
+}
+
+img {
+	display: inline-block;
+	width: 100%;
+	border-radius: 25px;
+}
+
+.caption {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	color:beige;
+	
+}
+
+.career {
+	background-color: #007686;
+	box-shadow: 20px 20px 20px black;
+	padding: 25px 25px;
+	margin: 11px;
+	margin-top: 50px;
+}
+
+h1.title-JK {
+	font-size: 35px;
+	text-align: center;
+	text-shadow: 5px 5px 10px black;
+}
+
+.trib-link {
+	text-decoration: none;
+	color: beige;
+}
